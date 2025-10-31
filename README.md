@@ -19,7 +19,7 @@ Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente e
 ---
 
 ## 🧰 Dependencias
-Si alguien desea reproducir el análisis en su propio equipo, puede instalar las dependencias con:
+Para ejecutar en local, puede instalar las dependencias con:
 
 ```bash
 pip install -r requirements.txt
