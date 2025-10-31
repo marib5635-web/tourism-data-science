@@ -1,0 +1,18 @@
+# Versiones exactas para reproducibilidad
+# pip install -r requirements.txt
+
+bertopic==0.17.3
+deep-translator==1.11.4
+matplotlib==3.10.0
+nltk==3.9.1
+numpy==2.0.2
+pandas==2.2.2
+plotly==6.0.1
+scikit-learn==1.6.1
+seaborn==0.13.2
+sentence-transformers==5.1.2
+sklearn-pandas==2.2.0
+spacy==3.8.7
+tqdm==4.67.1
+transformers==4.57.1
+umap-learn==0.5.9.post2
